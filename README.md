@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi There 👋
-🔭I'm currently working on a MERN Project.
-👯‍♂️I'm looking to collaborate on some great web development projects as a back-end developer.
-🌱I'm currently learning MERN STACK.
-📝Ask me about web-development, Data Structures and Algorithms.
+Hi There 👋<br>
+🔭I'm currently working on a MERN Project.<br>
+👯‍♂️I'm looking to collaborate on some great web development projects as a back-end developer.<br>
+🌱I'm currently learning MERN STACK.<br>
+📝Ask me about web-development, Data Structures and Algorithms.<br>
 
 
 
