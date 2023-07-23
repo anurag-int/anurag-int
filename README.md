@@ -1,6 +1,6 @@
 # 💫 About Me:
-      Hi There 👋<br>
-     🔭I'm currently working on a MERN Project.<br>
+      Hi There 👋
+     🔭I'm currently working on a MERN Project.
      📝I'm also interested in DevOps and Cloud Computing.<br>
      👯‍♂️I'm looking to collaborate on some great web development projects as a back-end developer.<br>
      🌱I'm currently learning MERN STACK.<br>
