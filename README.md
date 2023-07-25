@@ -1,9 +1,10 @@
 # 💫 About Me:
+`
 🔭Currently I'm working on a MERN Stack Project
 🌱I'm also interested in Web3 and Cloud Computing.
 👯‍♂️I'm looking to collaborate on some great web development projects as a back-end developer.
 📝Ask me about web development, JavaScript, Data Structure & Algorithms.
-
+`
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anurag-gupta-8b40b0207) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AnuragG61428885) 
 
