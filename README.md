@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭Currently I'm working on a MERN Stack Project.<br>
-🌱I'm also interested in Web3 and Cloud Computing.<br>
+🌱I'm also interested in Cloud Technologies.<br>
 👯‍♂️I'm looking to collaborate on some great web development projects as a back-end developer.<br>
 📝Ask me about web development, JavaScript, Data Structure & Algorithms.<br>
 
