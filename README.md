@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭Currently I'm Learning Full Stack Web Development.<br>
 🌱I'm also interested in Cloud Technologies.<br>
-👯‍♂️I'm looking to collaborate on some great web development projects as a back-end developer.<br>
+👯‍♂️I'm looking to collaborate on some great web development projects as a Full Stack Developer.<br>
 📝Ask me about web development, JavaScript, Data Structure & Algorithms.<br>
 
 ## 🌐 Socials:
